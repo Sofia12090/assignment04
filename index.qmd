@@ -1,5 +1,3 @@
-# assignment04
-
 ---
 title: "Assignment04"
 author: "Xiang Xiang & Weijing Zhong"
@@ -23,3 +21,22 @@ data <- read_ipums_micro(ddi)
 glimpse(data)
 
 ```
+
+\newpage
+
+```{r}
+
+
+
+```
+
+\newpage
+
+```{r}
+
+
+
+```
+
+\newpage
+
